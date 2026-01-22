@@ -1,5 +1,5 @@
 import s from "./App.module.css";
-import ping from "/imgTeste.png";
+import ping from "/download.jpg";
 import { useState } from "react";
 
 function App() {
